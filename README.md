@@ -6,7 +6,7 @@
 | 選修             | 智慧城市導論                  |
 
 觀看影片
-<a href="https://www.youtube.com/watch?v=_koOj8d7vvlc" target="_blank">倫敦智慧城市</a><br>
+<a href="https://www.youtube.com/watch?v=_koOj8d7vvlc" target="_blank">影片</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_koOj8d7vvlc" target="_blank"><img src="http://img.youtube.com/vi/_koOj8d7vvlc/0.jpg" 
 alt="影片" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
