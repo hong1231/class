@@ -4,7 +4,19 @@
 ## 自我介紹
 
 </summary>
-<img src="https://github.com/hong1231/class" width="200" height="200">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QR Code Example</title>
+</head>
+<body>
+  <h1>Scan the QR code to visit the page!</h1>
+  <!-- QR Code that links to your desired GitHub page -->
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/hong1231/class&size=200x200" alt="QR Code" width="200" height="200">
+</body>
+</html>
 
 |      履歷        |<img src="https://avatars.githubusercontent.com/u/22648375?v=4" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
