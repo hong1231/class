@@ -9,10 +9,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>
-    
-  ### QR Code Example
-  </title>
+
 </head>
 <body>
   <h1>Scan the QR code to visit the page!</h1>
