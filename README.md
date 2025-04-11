@@ -1,9 +1,3 @@
-<details>
-<summary>
-  
-## 自我介紹
-
-</summary>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,6 +11,13 @@
   <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/hong1231/class&size=200x200" alt="QR Code" width="200" height="200">
 </body>
 </html>
+<details>
+<summary>
+  
+## 自我介紹
+
+</summary>
+
 
 |      履歷        |<img src="https://avatars.githubusercontent.com/u/22648375?v=4" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
